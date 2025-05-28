@@ -46,5 +46,4 @@ Etsy apresenta os **maiores descontos médios aplicados**. Compradores que usara
 - **Python** para visualizações com Pandas & Matplotlib (*opcional*).
 - **GitHub** para documentação e compartilhamento do projeto.
 
-## 📎 Como Acessar
-1️⃣ Faça o clone do repositório:
+
